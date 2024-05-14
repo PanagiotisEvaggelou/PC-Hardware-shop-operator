@@ -1,4 +1,4 @@
-# Hardware-shop-operator
+# PC-Hardware-shop-operator
 
 A cli tool for managing a virtual shop selling computer hardware
 
