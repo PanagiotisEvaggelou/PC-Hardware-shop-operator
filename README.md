@@ -5,9 +5,10 @@ A cli tool for managing a virtual shop selling computer hardware
 
 ## Capabilities:
 
--
--
--
+- Display all products, filtered in categories (CPUs, Keyboards etc.)
+- Order a product
+- Display sold products and fullfiled orders
+- and more..
 
 ## Installation
 
